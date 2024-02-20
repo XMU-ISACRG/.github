@@ -1,12 +1,46 @@
-## Hi there 👋
+# 智能存储实验室
 
-<!--
+欢迎来到智能存储实验室的 GitHub Organization！智能存储实验室依托于厦门大学信息、厦门市智能存储与计算重点实验室。实验室专注于研究智能存储领域，涵盖**智能存储系统、存算融合、新兴非易失性存储和机器学习与系统优化**。在这里，我们致力于推动学术界和工业界的研究和创新，分享我们的成果和资源。
 
-**Here are some ideas to get you started:**
+## 实验室简介
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+智能存储实验室由[高聪明副教授](https://informatics.xmu.edu.cn/info/1425/31239.htm)（[个人主页](https://gaocm.github.io/)）带领，专注于以下研究领域：
+
+- **Intelligent Storage Systems**
+- **Storage-Compute Convergence**
+- **Emerging Non-volatile Memory**
+- **Machine Learning and System Optimization**
+
+我们的目标是探索智能存储技术的新领域，为未来的存储解决方案做出贡献。
+
+## 正在更新...
+
+### 1. Group Meeting
+
+[语雀链接]()
+
+- **Paper Reading Group**：我们定期组织 paper reading group，讨论和分享最新的研究成果和论文。在这里，我们深入探讨各种存储技术的前沿进展，并为成员提供学术交流的平台。
+- **Member Research Summary**：这里是我们实验室成员的研究总结，包括论文发表、项目进展以及个人研究成果。我们鼓励成员们在这里展示自己的研究成果，分享经验和教训，并与其他成员交流合作的机会。
+- **Timeline**：我们将在这里记录实验室的重要事件和里程碑，包括项目启动、成果发布、会议参加等。我们希望通过这个时间轴，展示实验室的发展历程，并为未来的规划提供参考。
+
+### 2. Source Code
+
+这里存放着我们实验室开发的源代码，涵盖各种工具、实验平台和项目代码。我们欢迎大家查阅和使用，同时也鼓励贡献您的代码和改进建议。我们相信开放的合作可以促进技术的进步和创新。
+
+- [repository1]()
+- [repository2]()
+
+### 3. Research Source
+
+[语雀链接]()
+
+在这个部分，我们分享一些有用的研究资源，包括工具、经验平台以及相关论文列表。我们希望通过这些资源，为研究人员提供便利和支持，推动智能存储领域的发展。
+
+### 4. Others
+
+[GitHub]()
+
+除了上述内容之外，这里还包括一些其他相关信息，例如服务器配置、联系方式等。如果您有任何问题或建议，请随时联系我们！
+
+欢迎加入智能存储实验室，让我们一起探索智能存储领域的前沿技术，共同促进学术和产业的发展！
+
