@@ -1,2 +1,2 @@
 # .github
-The organization profile(README)
+The organization profile
