@@ -4,7 +4,7 @@
 
 ## 课题组简介
 
-智能存算课题组由[高聪明副教授](https://informatics.xmu.edu.cn/info/1425/31239.htm)（[个人主页](https://gaocm.github.io/)）带领，专注于以下研究领域：
+智能存算课题组由厦门大学信息学院[高聪明副教授](https://gaocm.github.io/)（[Google Scholar](https://scholar.google.com/citations?user=vjpzagIAAAAJ&hl=en&oi=ao)）带领，专注于以下研究领域：
 
 - **Intelligent Storage Systems**
 - **Storage-Compute Convergence**
